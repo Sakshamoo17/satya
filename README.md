@@ -1,3 +1,6 @@
 # satya
 Different website with many effect and good features.
-<img src="s1.png"
+
+Here are some screenshot:-
+<img src="s1.png">
+<img src="s2.png">
