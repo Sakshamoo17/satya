@@ -1,2 +1,3 @@
 # satya
-Different website with many effect and good features  
+Different website with many effect and good features.
+
