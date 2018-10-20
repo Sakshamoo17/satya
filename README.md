@@ -1,6 +1,6 @@
 <h4>_____________________________________________________________________________________________________________________</h4>
 
-# satya Different website with many effect and good features.
+# Different website with many effect and good features.
 
 <h4><a href ="satya.fuertdevelopers.com">Website</a></h4>
 <br>
