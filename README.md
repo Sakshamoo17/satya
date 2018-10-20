@@ -13,4 +13,4 @@ Different website with many effect and good features.
 # Developers
 Saksham Sharma
  # Website
- www.satya.fuertdevelopers.com
+ www.satya.fuertedevelopers.com
