@@ -7,12 +7,13 @@
 
 <img src="s1.png">
 <img src="s2.png">
-
 <img src="s3.png">
 <img src="s4.png">
+# Website
+ www.satya.fuertedevelopers.com
+
 
 # Developers
 Saksham Sharma
- # Website
- www.satya.fuertedevelopers.com
+ 
  <h4>___________________________________________________________________________________________________________________</h4>
